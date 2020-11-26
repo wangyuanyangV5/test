@@ -1,4 +1,4 @@
-package com.zhss.designpattern.memento;
+package com.zhss.boot.designpattern.memento;
 
 public class MementoPatternDemo {
 	
